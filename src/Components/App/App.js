@@ -1,13 +1,9 @@
 import React, { Component } from "react"
 import './App.css';
-import Cardlist from "./Cardlist";
-import Header from "./Header";
-import SearchBox from "./SearchBox";
-// We are using destructoring here the exported robots is not export default
-// import { robots } from "./robots"
-import Loading from "./Loading";
-
-
+import Cardlist from "../Cardlist/Cardlist";
+import Header from "../Header/Header";
+import SearchBox from "../SearchBox/SearchBox";
+import Loading from "../Loading/Loading";
 
 class App extends Component {
   constructor() {

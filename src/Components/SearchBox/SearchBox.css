@@ -39,7 +39,7 @@
     /* Now your own custom styles */
     height: 14px;
     width: 14px;
-    background-image: url(clear_button/clear_button.png);
+    background-image: url(../../clear_button/clear_button.png);
     background-repeat: no-repeat;
     background-size: 100%;
   }
