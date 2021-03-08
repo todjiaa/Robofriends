@@ -26,13 +26,10 @@
 /* it seems like it works even without the below pseudo placeholder. You can experiment here and see what works best, it seems like the below properties also work above. */
 .search-container__placeholder::placeholder {
     font-style: italic;
-    /* font-size: 11px; */
-
 }
 
 .search-container__placeholder:focus {
     background-color:rgb(175, 247, 247);
-    /* outline: none; */
 }
 
 /* Add the search cancel button as it doeasn't come by default in IOS Safari */

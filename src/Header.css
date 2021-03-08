@@ -10,18 +10,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-    .header {
-        /* text-align: center; */
-    }
-
     .header h1 {
-        /* margin: 30px; */
-        /* font-family: LibreBarcode39Text; */
         font-size: 55px;
-        /* font-weight: 400; */
     }
-
 }
-
-
-
