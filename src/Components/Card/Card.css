@@ -1,6 +1,5 @@
 .card {
-    /* background-color: rgb(201, 245, 201); */
-    background-color: rgb(57, 39, 155);
+    background-color: rgb(201, 245, 201);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
