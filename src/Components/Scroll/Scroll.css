@@ -1,0 +1,27 @@
+/* Remove the scroll invisible but still active */
+.scroll {
+    padding: 0 10px;
+    /* Internet Explorer 10+ */
+    -ms-overflow-style: none;  
+    /* Firefox */
+    scrollbar-width: none;  
+}
+
+.scroll::-webkit-scrollbar { 
+    /* Safari and Chrome */
+    display: none;  
+}
+
+body::-webkit-scrollbar { 
+    /* Safari and Chrome */
+    display: none;  
+}
+
+@media only screen and (max-width: 600px) {
+    .scroll {
+        overflow-x: scroll; 
+        overflow-y: hidden;
+        height: auto; 
+        padding: 0 0px;
+    }
+}

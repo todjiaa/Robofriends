@@ -2,13 +2,15 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 15px;
-    padding: 0 20px;
+    padding: 20px 20px;
 }
 
 @media only screen and (max-width: 600px) {
     .cardlist {
-        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-        gap: 8px;
-        padding: 0 10px 30px;
+        width: fit-content;
+        display: flex;
+        gap: 0;
+        padding: 0px 5px;
     }
 }
+

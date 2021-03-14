@@ -1,14 +1,16 @@
 import Card from "../Card/Card";
 import "./Cardlist.css";
 
+
 const Cardlist = (props) => {
-    const cardArray = props.robots.map(robot => {
+    const cardArray = props.users.map(robot => {
         return(
             <Card 
                 key={robot.id} 
                 id={robot.id} 
                 name={robot.name} 
                 email={robot.email}
+                popUpShow={props.popUpShow}
             />
         ); 
     })

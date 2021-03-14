@@ -1,16 +1,14 @@
 .header {
-    text-align: center;
-}
-
-.header h1 {
-    margin: 30px;
-    font-family: LibreBarcode39Text;
-    font-size: 65px;
-    font-weight: 400;
+    padding: 40px 0 30px 0;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    background: linear-gradient(to left, rgb(61, 119, 78), rgb(60, 90, 145));
 }
 
 @media only screen and (max-width: 600px) {
-    .header h1 {
-        font-size: 55px;
-    }
+    
 }
