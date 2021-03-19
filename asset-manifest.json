@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.226f8624.chunk.css",
-    "main.js": "/robofriends/static/js/main.61def0d2.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.61def0d2.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.10bf2240.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.10bf2240.js.map",
+    "main.css": "/robofriends/static/css/main.ff5c3846.chunk.css",
+    "main.js": "/robofriends/static/js/main.ab6ba3d4.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.ab6ba3d4.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.84a44126.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.84a44126.js.map",
     "static/js/2.3e737a06.chunk.js": "/robofriends/static/js/2.3e737a06.chunk.js",
     "static/js/2.3e737a06.chunk.js.map": "/robofriends/static/js/2.3e737a06.chunk.js.map",
-    "static/js/3.ead3c646.chunk.js": "/robofriends/static/js/3.ead3c646.chunk.js",
-    "static/js/3.ead3c646.chunk.js.map": "/robofriends/static/js/3.ead3c646.chunk.js.map",
+    "static/js/3.54294d65.chunk.js": "/robofriends/static/js/3.54294d65.chunk.js",
+    "static/js/3.54294d65.chunk.js.map": "/robofriends/static/js/3.54294d65.chunk.js.map",
     "index.html": "/robofriends/index.html",
-    "static/css/main.226f8624.chunk.css.map": "/robofriends/static/css/main.226f8624.chunk.css.map",
+    "static/css/main.ff5c3846.chunk.css.map": "/robofriends/static/css/main.ff5c3846.chunk.css.map",
     "static/js/2.3e737a06.chunk.js.LICENSE.txt": "/robofriends/static/js/2.3e737a06.chunk.js.LICENSE.txt",
     "static/media/App.css": "/robofriends/static/media/LibreBarcode39Text-Regular.987a1486.ttf",
     "static/media/Loading.css": "/robofriends/static/media/loading.696cd6cc.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.10bf2240.js",
+    "static/js/runtime-main.84a44126.js",
     "static/js/2.3e737a06.chunk.js",
-    "static/css/main.226f8624.chunk.css",
-    "static/js/main.61def0d2.chunk.js"
+    "static/css/main.ff5c3846.chunk.css",
+    "static/js/main.ab6ba3d4.chunk.js"
   ]
 }
